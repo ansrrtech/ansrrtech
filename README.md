@@ -1,4 +1,4 @@
-### Hi there 👋 This is Rateesh Upendran here.. this is a reository of my work in Data Science.. my new found interest lately.. you are free to contribute and am available to contribute
+### Hi there 👋 This is Rateesh Upendran here.. this is a reository of my work in Data Science.. my new found interest in tech.. you are free to use /contribute on any project here.. do let me know how can I be of help..
 
 - 🔭 I’m currently working on ... enterprise architecture consulting
 - 🌱 I’m currently learning ... data science, AI/ML, deep learning
